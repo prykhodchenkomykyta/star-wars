@@ -1,5 +1,7 @@
 # Star Wars Heroes
 
+## Deployed version: https://star-wars-ten-xi.vercel.app/
+
 ### Description
 
 Star Wars App is a web application that allows users to browse a list of characters from the Star Wars universe, by clicking on the character it shows the graph of films where characted was showed and starship from each film that he used in a modal window.
