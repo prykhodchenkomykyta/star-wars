@@ -23,10 +23,10 @@ const FilterSort = ({ filter, sortOrder, onFilterChange, onSortChange }) => (
       </select>
     </div>
 
-    <div className="flex sm:flex-row items-center">
+    <div className="flex sm:flex-row items-center mb-4 sm:mb-0">
       <label
         htmlFor="sort-order"
-        className="text-lg font-medium mb-2 mb-0 pr-2 pl-2"
+        className="text-lg font-medium mb-0 pl-2 pr-2"
       >
         Sort by Name:
       </label>
